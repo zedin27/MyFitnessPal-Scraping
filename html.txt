@@ -1,0 +1,715 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/><style type="text/css" id="jss-server-side">.jss69 {
+  color: inherit;
+  cursor: pointer;
+  margin: 0;
+  border: 0;
+  display: inline-flex;
+  padding: 0;
+  outline: none;
+  position: relative;
+  user-select: none;
+  align-items: center;
+  border-radius: 0;
+  vertical-align: middle;
+  justify-content: center;
+  -moz-appearance: none;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.jss69::-moz-focus-inner {
+  border-style: none;
+}
+.jss69.jss70 {
+  cursor: default;
+  pointer-events: none;
+}
+.jss84 {
+  color: #212121;
+  padding: 16px 32px;
+  font-size: 0.875rem;
+  min-width: 64px;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  box-sizing: border-box;
+  font-weight: 600;
+  line-height: 1.5rem;
+  font-family: Armour,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  border-radius: 4px;
+  text-transform: uppercase;
+}
+.jss84:hover {
+  text-decoration: none;
+  background-color: rgba(33, 33, 33, 0.08);
+}
+.jss84.jss104 {
+  color: rgba(0, 0, 0, 0.26);
+}
+@media (hover: none) {
+  .jss84:hover {
+    background-color: transparent;
+  }
+}
+.jss84:hover.jss104 {
+  background-color: transparent;
+}
+.jss85 {
+  width: 100%;
+  display: inherit;
+  align-items: inherit;
+  justify-content: inherit;
+}
+.jss86 {
+  padding: 16px 32px;
+}
+.jss87 {
+  color: #0066EE;
+}
+.jss87:hover {
+  background-color: rgba(0, 102, 238, 0.08);
+}
+@media (hover: none) {
+  .jss87:hover {
+    background-color: transparent;
+  }
+}
+.jss88 {
+  color: #212121;
+}
+.jss88:hover {
+  background-color: rgba(33, 33, 33, 0.08);
+}
+@media (hover: none) {
+  .jss88:hover {
+    background-color: transparent;
+  }
+}
+.jss92 {
+  border: 1px solid rgba(0, 0, 0, 0.23);
+  padding: 14px 32px;
+  border-width: 2px;
+}
+.jss92.jss104 {
+  border: 1px solid rgba(0, 0, 0, 0.26);
+}
+.jss93 {
+  color: #0066EE;
+  border: 1px solid rgba(0, 102, 238, 0.5);
+  border-width: 2px;
+  border-color: #0066EE;
+}
+.jss93:hover {
+  border: 1px solid #0066EE;
+  border-width: 2px;
+  background-color: rgba(0, 102, 238, 0.08);
+}
+.jss93.jss104 {
+  border-width: 2px;
+}
+@media (hover: none) {
+  .jss93:hover {
+    background-color: transparent;
+  }
+}
+.jss94 {
+  color: #212121;
+  border: 1px solid rgba(33, 33, 33, 0.5);
+  border-width: 2px;
+  border-color: #0066EE;
+}
+.jss94:hover {
+  border: 1px solid #212121;
+  border-width: 2px;
+  background-color: rgba(33, 33, 33, 0.08);
+}
+.jss94.jss104 {
+  border: 1px solid rgba(0, 0, 0, 0.26);
+  border-width: 2px;
+}
+@media (hover: none) {
+  .jss94:hover {
+    background-color: transparent;
+  }
+}
+.jss95 {
+  color: rgba(0, 0, 0, 0.87);
+  box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 3px 1px -2px rgba(0,0,0,0.12);
+  background-color: #e0e0e0;
+}
+.jss95.jss103 {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+}
+.jss95:active {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.16);
+}
+.jss95.jss104 {
+  color: #A7CBFC;
+  box-shadow: none;
+  background-color: #0066EE;
+}
+.jss95:hover {
+  background-color: #d5d5d5;
+}
+@media (hover: none) {
+  .jss95:hover {
+    background-color: #e0e0e0;
+  }
+}
+.jss95:hover.jss104 {
+  background-color: rgba(0, 0, 0, 0.12);
+}
+.jss95:hover:disabled {
+  background-color: #0066EE;
+}
+.jss96 {
+  color: #FFFFFF;
+  background-color: #0066EE;
+}
+.jss96:hover {
+  background-color: rgb(0, 71, 166);
+}
+@media (hover: none) {
+  .jss96:hover {
+    background-color: #0066EE;
+  }
+}
+.jss97 {
+  color: #FFFFFF;
+  background-color: #212121;
+}
+.jss97:hover {
+  background-color: rgb(23, 23, 23);
+}
+@media (hover: none) {
+  .jss97:hover {
+    background-color: #212121;
+  }
+}
+.jss101 {
+  width: 56px;
+  height: 56px;
+  padding: 0;
+  min-width: 0;
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+  border-radius: 50%;
+}
+.jss101:active {
+  box-shadow: 0px 7px 8px -4px rgba(0,0,0,0.2),0px 12px 17px 2px rgba(0,0,0,0.14),0px 5px 22px 4px rgba(0,0,0,0.12);
+}
+.jss102 {
+  width: auto;
+  height: 48px;
+  padding: 0 16px;
+  min-width: 48px;
+  border-radius: 24px;
+}
+.jss105 {
+  color: inherit;
+  border-color: currentColor;
+}
+.jss106 {
+  width: 40px;
+  height: 40px;
+}
+.jss107 {
+  padding: 8px 16px;
+  min-width: 64px;
+  font-size: 0.75rem;
+}
+.jss108 {
+  padding: 20px 56px;
+  font-size: 1rem;
+}
+.jss109 {
+  width: 100%;
+}
+.jss22 {
+  margin: 0;
+  display: block;
+}
+.jss23 {
+  color: #616161;
+  font-size: 7rem;
+  font-weight: 300;
+  font-family: Armour,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  line-height: 1.14286em;
+  margin-left: -.04em;
+  letter-spacing: -.04em;
+}
+.jss24 {
+  color: #616161;
+  font-size: 3.5rem;
+  font-weight: 400;
+  font-family: Armour,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  line-height: 1.30357em;
+  margin-left: -.02em;
+  letter-spacing: -.02em;
+}
+.jss25 {
+  color: #212121;
+  font-size: 3rem;
+  font-weight: 700;
+  font-family: Armour,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  line-height: 3.75rem;
+  margin-left: -.02em;
+}
+.jss26 {
+  color: #212121;
+  font-size: 3.75rem;
+  font-weight: 700;
+  font-family: Armour,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  line-height: 4.6875rem;
+}
+.jss27 {
+  color: #212121;
+  font-size: 1.5rem;
+  font-weight: 400;
+  font-family: Armour,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  line-height: 1.35417em;
+}
+.jss28 {
+  color: #212121;
+  font-size: 1.3125rem;
+  font-weight: 500;
+  font-family: Armour,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  line-height: 1.16667em;
+}
+.jss29 {
+  color: #212121;
+  font-size: 1rem;
+  font-weight: 400;
+  font-family: Armour,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  line-height: 1.5em;
+}
+.jss30 {
+  color: #616161;
+  font-size: 0.875rem;
+  font-family: Armour,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-weight: 400;
+  line-height: 1.5rem;
+}
+.jss31 {
+  color: #212121;
+  font-size: 1rem;
+  font-family: Armour,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-weight: 400;
+  line-height: 1.5rem;
+}
+.jss32 {
+  color: #212121;
+  font-size: 0.75rem;
+  font-family: Armour,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-weight: 500;
+  line-height: 1.66;
+}
+.jss33 {
+  color: #212121;
+  font-size: 0.875rem;
+  font-family: Armour,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-weight: 600;
+  line-height: 1.5rem;
+  text-transform: uppercase;
+}
+.jss34 {
+  color: #212121;
+  font-size: 2.125rem;
+  font-family: Armour,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-weight: 600;
+  line-height: 2.625rem;
+}
+.jss35 {
+  color: #212121;
+  font-size: 1.5rem;
+  font-family: Armour,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-weight: 500;
+  line-height: 1.875rem;
+}
+.jss36 {
+  color: #212121;
+  font-size: 1.25rem;
+  font-family: Armour,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-weight: 700;
+  line-height: 1.5625rem;
+}
+.jss37 {
+  color: #212121;
+  font-size: 1rem;
+  font-family: Armour,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-weight: 700;
+  line-height: 1.5625rem;
+}
+.jss38 {
+  color: #212121;
+  font-size: 0.875rem;
+  font-family: Armour,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-weight: 600;
+  line-height: 1.5rem;
+}
+.jss39 {
+  color: #212121;
+  font-size: 0.75rem;
+  font-family: Armour,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-weight: 600;
+  line-height: 1.5rem;
+}
+.jss40 {
+  color: #212121;
+  font-size: 1rem;
+  font-family: Armour,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-weight: 500;
+  line-height: 1.75;
+}
+.jss41 {
+  color: #212121;
+  font-size: 0.875rem;
+  font-family: Armour,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-weight: 500;
+  line-height: 1.57;
+}
+.jss42 {
+  color: #212121;
+  font-size: 0.75rem;
+  font-family: Armour,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-weight: 400;
+  line-height: 2.66;
+  text-transform: uppercase;
+}
+.jss43 {
+  width: 1px;
+  height: 1px;
+  position: absolute;
+  overflow: hidden;
+}
+.jss44 {
+  text-align: left;
+}
+.jss45 {
+  text-align: center;
+}
+.jss46 {
+  text-align: right;
+}
+.jss47 {
+  text-align: justify;
+}
+.jss48 {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.jss49 {
+  margin-bottom: .94em;
+}
+.jss50 {
+  margin-bottom: 16px;
+}
+.jss51 {
+  color: inherit;
+}
+.jss52 {
+  color: #0066EE;
+}
+.jss53 {
+  color: #212121;
+}
+.jss54 {
+  color: #212121;
+}
+.jss55 {
+  color: #616161;
+}
+.jss56 {
+  color: #F03434;
+}
+.jss57 {
+  display: inline;
+}
+.jss63 {
+  flex: 0 0 auto;
+  color: rgba(0, 0, 0, 0.54);
+  padding: 12px;
+  overflow: visible;
+  font-size: 1.5rem;
+  text-align: center;
+  transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  border-radius: 50%;
+}
+.jss63:hover {
+  background-color: rgba(0, 0, 0, 0.08);
+}
+.jss63.jss67 {
+  color: rgba(0, 0, 0, 0.26);
+}
+@media (hover: none) {
+  .jss63:hover {
+    background-color: transparent;
+  }
+}
+.jss63:hover.jss67 {
+  background-color: transparent;
+}
+.jss64 {
+  color: inherit;
+}
+.jss65 {
+  color: #0066EE;
+}
+.jss65:hover {
+  background-color: rgba(0, 102, 238, 0.08);
+}
+@media (hover: none) {
+  .jss65:hover {
+    background-color: transparent;
+  }
+}
+.jss66 {
+  color: #212121;
+}
+.jss66:hover {
+  background-color: rgba(33, 33, 33, 0.08);
+}
+@media (hover: none) {
+  .jss66:hover {
+    background-color: transparent;
+  }
+}
+.jss68 {
+  width: 100%;
+  display: flex;
+  align-items: inherit;
+  justify-content: inherit;
+}
+.jss72 {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  font-size: 24px;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  user-select: none;
+  flex-shrink: 0;
+}
+.jss73 {
+  color: #0066EE;
+}
+.jss74 {
+  color: #212121;
+}
+.jss75 {
+  color: rgba(0, 0, 0, 0.54);
+}
+.jss76 {
+  color: #F03434;
+}
+.jss77 {
+  color: rgba(0, 0, 0, 0.26);
+}
+.jss78 {
+  font-size: inherit;
+}
+.jss79 {
+  font-size: 20px;
+}
+.jss80 {
+  font-size: 35px;
+}
+html {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+body {
+  margin: 0;
+  background-color: #FFFFFF;
+}
+@media print {
+  body {
+    background-color: #FFFFFF;
+  }
+}
+.jss81 {
+  letter-spacing: 0.015625rem;
+}
+.jss82 {
+  font-weight: 600;
+  font-family: Armour,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+.jss83 {
+  box-shadow: none;
+}
+.jss58 {
+  width: 100%;
+  color: #FFFFFF;
+  bottom: 0;
+  height: 152px;
+  z-index: 10;
+  position: fixed;
+  text-align: left;
+  background: rgba(0, 0, 0, 0.76);
+}
+.jss59 {
+  float: right;
+  font-size: 1rem;
+  margin-top: 1rem;
+  padding-top: 0;
+  margin-right: 1rem;
+}
+.jss60 {
+  color: #FFFFFF;
+  margin: 1rem;
+  font-size: 14px;
+  line-height: 1.25;
+}
+.jss61 {
+  color: #000;
+  border: 2px solid transparent;
+  padding: 4.5px 21.5px;
+  background: #FFFFFF;
+  margin-left: 1rem;
+}
+.jss61:hover {
+  color: #FFFFFF;
+  border: 2px solid #FFFFFF;
+  background: none;
+}
+.jss62 {
+  font-weight: 500;
+}
+@media screen and (min-width: 768px) {
+  .jss60 {
+    margin: 2rem 107px 1rem 66px;
+    font-size: 1rem;
+  }
+  .jss61 {
+    margin-left: 66px;
+  }
+  .jss59 {
+    margin-top: 2rem;
+  }
+}
+.jss1 {
+  position: relative;
+  min-height: 500px;
+}
+.jss2 {
+  margin: 0 auto;
+  padding: 40px 0;
+  max-width: 980px;
+}
+@media (max-width:1023.95px) {
+  .jss2 {
+    padding: 24px 16px;
+  }
+}
+.jss3 {
+  color: #fff;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.jss3:hover {
+  cursor: pointer;
+}
+.jss4 {
+  padding: 16px 8px;
+  position: relative;
+  font-size: 14px;
+  border-bottom: 1px solid #eeeeee;
+}
+.jss5 {
+  margin: 0;
+  bottom: 1px;
+  position: relative;
+  font-size: 20px;
+  font-weight: 500;
+}
+.jss6 {
+  float: right;
+}
+.jss6 > * {
+  right: 16px;
+}
+.jss7 {
+  top: 50%;
+  right: 0;
+  position: absolute;
+  margin-top: -48px;
+}
+.jss8 {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+.jss9 {
+  margin-bottom: 8px;
+}
+.jss10 {
+  top: 5px;
+  position: relative;
+}
+.jss11 {
+  margin: 0 4px;
+  display: inline-block;
+}
+.jss12 {
+  color: #f2f2f2;
+}
+.jss13 {
+  top: 50%;
+  right: 0;
+  position: absolute;
+  margin-right: 24px;
+}
+.jss14 {
+  margin-right: 80px;
+}
+.jss15 {
+  font-size: 14px;
+  user-select: none;
+  font-weight: 500;
+}
+.jss16 {
+  color: #aaaaaa;
+  margin: 0 4px;
+  cursor: pointer;
+  display: inline-block;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 3px;
+}
+@media (min-width:768px) {
+  .jss16:hover {
+    color: #212121;
+    text-decoration: none;
+  }
+}
+.jss16:active {
+  color: #FFFFFF;
+  background-color: #212121;
+}
+.jss17 {
+  color: #212121;
+}
+.jss18 {
+  top: 4px;
+  color: #212121;
+  padding: 0;
+  position: relative;
+}
+.jss19 {
+  color: #9e9e9e !important;
+  cursor: not-allowed;
+}
+.jss19:active {
+  color: #9e9e9e !important;
+  background-color: transparent;
+}
+.jss20 > * {
+  cursor: wait;
+}
+.jss21 {
+  top: 3px;
+  position: relative;
+  pointer-events: none;
+}</style><title data-react-helmet="true">quest birthday cake Nutrition Facts, Calories, quest birthday cake Nutritional Information</title><meta data-react-helmet="true" name="keywords" content="calorie counter, free diet journal, weight loss program, nutrition facts, online calorie counter, free diet plan, weight loss online, free calorie counter"/><meta data-react-helmet="true" name="description" content="quest birthday cake nutrition facts and nutritional information. Find calories, carbs, and nutritional contents for quest birthday cake and over 2,000,000 other foods at MyFitnessPal.com."/><link data-react-helmet="true" rel="alternate" href="https://myfitnesspal.com/food/search" hrefLang="en"/><link data-react-helmet="true" rel="alternate" href="https://myfitnesspal.com/da/food/search" hrefLang="da"/><link data-react-helmet="true" rel="alternate" href="https://myfitnesspal.com/de/food/search" hrefLang="de"/><link data-react-helmet="true" rel="alternate" href="https://myfitnesspal.com/es/food/search" hrefLang="es"/><link data-react-helmet="true" rel="alternate" href="https://myfitnesspal.com/fr/food/search" hrefLang="fr"/><link data-react-helmet="true" rel="alternate" href="https://myfitnesspal.com/it/food/search" hrefLang="it"/><link data-react-helmet="true" rel="alternate" href="https://myfitnesspal.com/ja/food/search" hrefLang="ja"/><link data-react-helmet="true" rel="alternate" href="https://myfitnesspal.com/ko/food/search" hrefLang="ko"/><link data-react-helmet="true" rel="alternate" href="https://myfitnesspal.com/nb/food/search" hrefLang="nb"/><link data-react-helmet="true" rel="alternate" href="https://myfitnesspal.com/nl/food/search" hrefLang="nl"/><link data-react-helmet="true" rel="alternate" href="https://myfitnesspal.com/pt/food/search" hrefLang="pt"/><link data-react-helmet="true" rel="alternate" href="https://myfitnesspal.com/ru/food/search" hrefLang="ru"/><link data-react-helmet="true" rel="alternate" href="https://myfitnesspal.com/sv/food/search" hrefLang="sv"/><link data-react-helmet="true" rel="alternate" href="https://myfitnesspal.com/zh-CN/food/search" hrefLang="zh-CN"/><link data-react-helmet="true" rel="alternate" href="https://myfitnesspal.com/zh-TW/food/search" hrefLang="zh-TW"/><link data-react-helmet="true" rel="alternate" href="https://myfitnesspal.com/food/search" hrefLang="x-default"/><link href="/react-static/index-6883b86762bd5229add27e15e4d4bc16.css" media="screen, projection" rel="stylesheet" type="text/css"/></head><body><div id="app"><div class="MFPApp-3IaDG " data-reactroot=""><div><header><div class="rollout-wrapper"></div><div class="MFPHeader-7frGv"><div class="topNavigation-3pygY widthWrapper-1H2s5"><div class="mfpLogo-1YjIe"><a href="/" target="_self"><img src="/react-static/53af3757ef0dac6bc550728bdf9e779b.svg" alt="myfitnesspal"/></a></div><div class="accountMenuLoggedOut-27M2N menuItemLinks-1cgEZ"><div><a href="/account/login" target="_self">Log In</a></div><div><a href="/account/create" target="_self">Sign Up</a></div></div></div><div class="navigation-XWHL1"><div class="primaryNav-clcni"><div class="widthWrapper-1H2s5"><a href="/welcome/learn_more" target="_self" class="menuLink-26lK_">About</a><a href="/food/calorie-chart-nutrition-facts" target="_self" class="food menuLink-26lK_ active-236zc">Food</a><a href="/exercise/lookup" target="_self" class="menuLink-26lK_">Exercise</a><a href="/apps" target="_self" class="menuLink-26lK_">Apps</a><a href="http://community.myfitnesspal.com/en/categories" target="_self" class="menuLink-26lK_">Community</a><a href="http://blog.myfitnesspal.com/" target="_self" class="menuLink-26lK_">Blog</a><a href="#" class="menuLink-26lK_"><img src="/react-static/297a39fe7d45b0214ccf3bc8b074c3cf.svg" width="25" height="25" style="position:relative;top:7px;right:7px" role="presentation"/>Shop</a><a href="/premium?source=menu_bar" target="_self" class="menuLink-26lK_">Premium</a></div></div></div></div></header><div class="jss1"><div class="container-3Yq-c"><div class="main-2ZMcp"><section class="search-EpcIb"><div class="searchBar-1zwje "><form action="/food/search"><input type="search" placeholder="Search for a food, brand, or restaurant" maxLength="45" class="searchInput-2pVtM clearButton-1Isge" value="quest birthday cake"/><button type="submit"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24"><defs><rect id="b" width="652" height="56" rx="4"></rect><filter id="a" width="101.8%" height="121.4%" x="-.9%" y="-7.1%" filterUnits="objectBoundingBox"><feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"></feGaussianBlur><feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0882302989 0"></feColorMatrix><feOffset in="SourceAlpha" result="shadowOffsetOuter2"></feOffset><feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation="1"></feGaussianBlur><feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"></feColorMatrix><feMerge><feMergeNode in="shadowMatrixOuter1"></feMergeNode><feMergeNode in="shadowMatrixOuter2"></feMergeNode></feMerge></filter></defs><g fill="none" fill-rule="evenodd"><g transform="translate(-16 -16)"><use fill="#4C4C4C" filter="url(#a)" xlink:href="#b"></use><use fill="#FFF" xlink:href="#b"></use></g><path fill="#4C4C4C" fill-rule="nonzero" d="M16.27 15.094h-.201l-.385-.37a8.88 8.88 0 0 0 2.155-5.805A8.92 8.92 0 0 0 8.919 0 8.92 8.92 0 0 0 0 8.92a8.92 8.92 0 0 0 8.92 8.919c2.209 0 4.24-.81 5.804-2.155l.37.385v.2c0 .566.225 1.108.626 1.508l5.212 5.202a1.447 1.447 0 1 0 2.047-2.047l-5.202-5.212a2.13 2.13 0 0 0-1.508-.626zm-7.35 0A6.167 6.167 0 0 1 2.743 8.92 6.167 6.167 0 0 1 8.92 2.744a6.167 6.167 0 0 1 6.175 6.175 6.167 6.167 0 0 1-6.175 6.175z"></path></g></svg></button></form></div></section><div class="jss4"><div class="jss8"><a href="/food/calories/quest-birthday-cake-5f-25c-21p-1062533531">Quest Birthday Cake (5f/25c/21p)</a></div><div class="jss9">Quest, <!-- -->1<!-- --> <!-- -->Bar (60g)</div><div class="jss14">Calories: 180<!-- --> <span class="jss11">•</span>Carbs: 24g<!-- --> <span class="jss11">•</span>Fat: 6g<!-- --> <span class="jss11">•</span>Protein: 21g</div><div class="jss7"><div class="root-2XVjd"><div class="recharts-responsive-container" style="width:100%;height:100%;min-height:1px"><div style="position:absolute;width:0;height:0;visibility:hidden;display:none"></div></div><div class="label-1frn-"><h1 class="jss5">180</h1></div></div></div></div><div class="jss4"><div class="jss8"><a href="/food/calories/birthday-cake-bar-1062850545">Birthday Cake Bar</a></div><div class="jss9">Quest, <!-- -->1<!-- --> <!-- -->Bar</div><div class="jss14">Calories: 180<!-- --> <span class="jss11">•</span>Carbs: 24g<!-- --> <span class="jss11">•</span>Fat: 6g<!-- --> <span class="jss11">•</span>Protein: 21g</div><div class="jss7"><div class="root-2XVjd"><div class="recharts-responsive-container" style="width:100%;height:100%;min-height:1px"><div style="position:absolute;width:0;height:0;visibility:hidden;display:none"></div></div><div class="label-1frn-"><h1 class="jss5">180</h1></div></div></div></div><div class="jss4"><div class="jss8"><a href="/food/calories/birthday-cake-keto-951955098">Birthday Cake Keto</a></div><div class="jss9">Quest, <!-- -->60<!-- --> <!-- -->g</div><div class="jss14">Calories: 180<!-- --> <span class="jss11">•</span>Carbs: 4g<!-- --> <span class="jss11">•</span>Fat: 6g<!-- --> <span class="jss11">•</span>Protein: 21g</div><div class="jss7"><div class="root-2XVjd"><div class="recharts-responsive-container" style="width:100%;height:100%;min-height:1px"><div style="position:absolute;width:0;height:0;visibility:hidden;display:none"></div></div><div class="label-1frn-"><h1 class="jss5">180</h1></div></div></div></div><div class="jss4"><div class="jss8"><a href="/food/calories/birthday-cake-corrected-1061294316">Birthday Cake (Corrected)</a></div><div class="jss9">Quest, <!-- -->1<!-- --> <!-- -->bar</div><div class="jss14">Calories: 180<!-- --> <span class="jss11">•</span>Carbs: 24g<!-- --> <span class="jss11">•</span>Fat: 6g<!-- --> <span class="jss11">•</span>Protein: 21g</div><div class="jss7"><div class="root-2XVjd"><div class="recharts-responsive-container" style="width:100%;height:100%;min-height:1px"><div style="position:absolute;width:0;height:0;visibility:hidden;display:none"></div></div><div class="label-1frn-"><h1 class="jss5">180</h1></div></div></div></div><div class="jss4"><div class="jss8"><a href="/food/calories/birthday-cake-1064837057">Birthday Cake</a></div><div class="jss9">Quest Nutrition, <!-- -->1<!-- --> <!-- -->bar (60g)</div><div class="jss14">Calories: 180<!-- --> <span class="jss11">•</span>Carbs: 24g<!-- --> <span class="jss11">•</span>Fat: 6g<!-- --> <span class="jss11">•</span>Protein: 21g</div><div class="jss7"><div class="root-2XVjd"><div class="recharts-responsive-container" style="width:100%;height:100%;min-height:1px"><div style="position:absolute;width:0;height:0;visibility:hidden;display:none"></div></div><div class="label-1frn-"><h1 class="jss5">180</h1></div></div></div></div><div class="jss4"><div class="jss8"><a href="/food/calories/quest-protein-bar-birthday-cake-1066358948">Quest Protein Bar, Birthday Cake</a></div><div class="jss9">Quest, <!-- -->1<!-- --> <!-- -->bar (60g)</div><div class="jss14">Calories: 180<!-- --> <span class="jss11">•</span>Carbs: 24g<!-- --> <span class="jss11">•</span>Fat: 6g<!-- --> <span class="jss11">•</span>Protein: 21g</div><div class="jss7"><div class="root-2XVjd"><div class="recharts-responsive-container" style="width:100%;height:100%;min-height:1px"><div style="position:absolute;width:0;height:0;visibility:hidden;display:none"></div></div><div class="label-1frn-"><h1 class="jss5">180</h1></div></div></div></div><div class="jss4"><div class="jss8"><a href="/food/calories/protein-bar-birthday-cake-1070506887">Protein Bar - Birthday Cake</a></div><div class="jss9">Quest, <!-- -->1<!-- --> <!-- -->Bar 2.12 oz (60g)</div><div class="jss14">Calories: 180<!-- --> <span class="jss11">•</span>Carbs: 24g<!-- --> <span class="jss11">•</span>Fat: 5g<!-- --> <span class="jss11">•</span>Protein: 21g</div><div class="jss7"><div class="root-2XVjd"><div class="recharts-responsive-container" style="width:100%;height:100%;min-height:1px"><div style="position:absolute;width:0;height:0;visibility:hidden;display:none"></div></div><div class="label-1frn-"><h1 class="jss5">180</h1></div></div></div></div><div class="jss4"><div class="jss8"><a href="/food/calories/birthday-cake-minus-erythritol-1072396382">Birthday Cake (Minus Erythritol)</a></div><div class="jss9">Quest, <!-- -->1<!-- --> <!-- -->Bar (60 g)</div><div class="jss14">Calories: 180<!-- --> <span class="jss11">•</span>Carbs: 18g<!-- --> <span class="jss11">•</span>Fat: 6g<!-- --> <span class="jss11">•</span>Protein: 21g</div><div class="jss7"><div class="root-2XVjd"><div class="recharts-responsive-container" style="width:100%;height:100%;min-height:1px"><div style="position:absolute;width:0;height:0;visibility:hidden;display:none"></div></div><div class="label-1frn-"><h1 class="jss5">180</h1></div></div></div></div><div class="jss4"><div class="jss8"><a href="/food/calories/birthday-cake-flavor-1062837556">Birthday Cake Flavor</a></div><div class="jss9">Quest Nutrition, <!-- -->1<!-- --> <!-- -->bar</div><div class="jss14">Calories: 180<!-- --> <span class="jss11">•</span>Carbs: 24g<!-- --> <span class="jss11">•</span>Fat: 6g<!-- --> <span class="jss11">•</span>Protein: 21g</div><div class="jss7"><div class="root-2XVjd"><div class="recharts-responsive-container" style="width:100%;height:100%;min-height:1px"><div style="position:absolute;width:0;height:0;visibility:hidden;display:none"></div></div><div class="label-1frn-"><h1 class="jss5">180</h1></div></div></div></div><div class="jss4"><div class="jss8"><a href="/food/calories/birthday-cake-1053416616">Birthday Cake</a></div><div class="jss9">Quest Protien Bar, <!-- -->1<!-- --> <!-- -->bar (60g)</div><div class="jss14">Calories: 180<!-- --> <span class="jss11">•</span>Carbs: 24g<!-- --> <span class="jss11">•</span>Fat: 6g<!-- --> <span class="jss11">•</span>Protein: 21g</div><div class="jss7"><div class="root-2XVjd"><div class="recharts-responsive-container" style="width:100%;height:100%;min-height:1px"><div style="position:absolute;width:0;height:0;visibility:hidden;display:none"></div></div><div class="label-1frn-"><h1 class="jss5">180</h1></div></div></div></div><div class="pagination-2NR-v jss15"><a class="jss16 jss19 jss18" name="0" title="prev page"><svg class="jss21" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="nonzero" d="M15.41 16.59L10.83 12l4.58-4.59L14 6l-6 6 6 6z"></path></svg></a><a name="1" class="jss16 jss17" title="page 1">1</a><a name="2" class="jss16" title="page 2">2</a><a name="3" class="jss16" title="page 3">3</a><a name="4" class="jss16" title="page 4">4</a><a name="5" class="jss16" title="page 5">5</a><a name="6" class="jss16" title="page 6">6</a><a name="7" class="jss16" title="page 7">7</a><a name="8" class="jss16" title="page 8">8</a><a name="9" class="jss16" title="page 9">9</a><a name="10" class="jss16" title="page 10">10</a><a class="jss16 jss18" name="2" title="next page"><svg class="jss21" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="nonzero" d="M9 16.59L13.58 12 9 7.41 10.41 6l6 6-6 6z"></path></svg></a></div></div><div class="blog-3Ege9"><div class="blogContainerTitle-25oLr"><h5 class="jss22 jss38">Recipes &amp; Inspiration</h5></div><div class="blogsCards-1NwdX gutters-263pb"></div></div><div class="sidebar-QqXAt"><div id="mfp-desktop-halfpage-1"></div><div id="mfp-desktop-med-rec-1"></div></div></div></div><footer><div class="MFPFooter-3L_x_"><div class="uacfWrapper-2CGp5"><a href="https://www.underarmour.com/en-us/?cid=MMF|REF|MFPal|Site|||"><img src="/react-static/89536ffddeefbb3026faa7651321517d.png"/></a></div><div class="content-1uSEV"><select class="languageSelect-1EecH"><option selected="" value="en">English</option><option value="de">Deutsch</option><option value="es">Español</option><option value="fr">Français</option><option value="pt">Português (Brasil)</option><option value="it">Italiano</option><option value="nb">Norsk</option><option value="nl">Nederlands</option><option value="ru">Pусский</option><option value="sv">Svensk</option><option value="da">Dansk</option><option value="ko">한국어</option><option value="ja">日本語</option><option value="zh-CN">中文(简体)</option><option value="zh-TW">中文(台灣)</option></select><ul class="nav-2eMDe"><li><a href="/">Calorie Counter</a></li><li><a href="https://blog.myfitnesspal.com" target="_self">Blog</a></li><li><a href="https://account.underarmour.com/terms-and-conditions?locale=en" target="_self">Terms</a></li><li><a href="https://account.underarmour.com/privacy?locale=en" target="_self">Privacy</a></li><li><a href="/contact-us">Contact Us</a></li><li><a href="/api" target="_self">API</a></li><li><a href="/jobs" target="_self">Jobs</a></li><li><a href="/forums/show/13-website-suggestions-feedback" target="_self">Feedback</a></li><li><a href="/community-guidelines">Community Guidelines</a></li><li><div id="teconsent_cdn"></div></li><li><a target="_blank" href="https://preferences-mgr.trustarc.com/?pid=underarmour01&amp;aid=underarmour_pub01&amp;locale=en">AdChoices</a></li><li><a href="https://account.underarmour.com/en-us/data-management" target="_self">Do Not Sell My Personal Information</a></li></ul><div class="copyright-3xF6P">© 2020 Under Armour, Inc.</div></div></div></footer><div class="jss58"><button class="jss69 jss63 jss64 jss59" tabindex="0" type="button" aria-label="close" edge="end"><span class="jss68"><svg class="jss72" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="presentation"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path><path fill="none" d="M0 0h24v24H0z"></path></svg></span></button><p class="jss60">You&#x27;re taking control of your fitness and wellness journey, so take control of your data, too. <a class="jss3" href="https://account.underarmour.com/en-us/data-management" target="_blank">Learn more</a> about your rights and options. Or <a class="jss3">click here</a> to opt-out of certain cookies.</p><button class="jss69 jss84 jss95 jss96 jss98 jss99 jss107 jss81 jss82 jss83 jss61" tabindex="0" type="button"><span class="jss85"><div>GOT IT</div></span></button></div></div></div></div><script type="text/javascript" nonce="2a7d879e-8489-427e-922f-762ae09b3c13">window.__CLIENT_CONFIG__={"clientEnv":{"mfpRoot":"https:\u002F\u002Fmyfitnesspal.com\u002F","mfpApiRoot":"https:\u002F\u002Fapi.myfitnesspal.com\u002F","appRoot":"https:\u002F\u002Fmyfitnesspal.com\u002F","mfpClientId":"mfp-main-js","gaAccount":"UA-273418-97","airbrakeProjectId":"140173","airbrakeProjectKey":"db9c738acbc14463245958e1672e8503","airbrakeEnvTag":"production"},"serviceWorker":{},"polyfillIO":{"enabled":true,"url":"\u002F\u002Fcdn.polyfill.io\u002Fv2\u002Fpolyfill.js","features":["default","es6"]},"htmlPage":{"titleTemplate":"MyFitnessPal - %s","defaultTitle":"MyFitnessPal - Calorie Counter","description":""}}</script><script nonce="2a7d879e-8489-427e-922f-762ae09b3c13" type="text/javascript">window.__ASYNC_COMPONENTS_REHYDRATE_STATE__={"resolved":{}}</script><script nonce="2a7d879e-8489-427e-922f-762ae09b3c13" type="text/javascript">window.__INITIAL_STATE__={"env":{"mfpRoot":"https:\u002F\u002Fmyfitnesspal.com\u002F","mfpApiRoot":"https:\u002F\u002Fapi.myfitnesspal.com\u002F","appRoot":"https:\u002F\u002Fmyfitnesspal.com\u002F","mfpClientId":"mfp-main-js","gaAccount":"UA-273418-97","gtmKey":"GTM-TDCVCS","airbrakeProjectId":"140173","airbrakeProjectKey":"db9c738acbc14463245958e1672e8503","airbrakeEnvTag":"production","amplitudeKey":"f9a2e95f6b0886b29531588716517567","isWebview":false,"recaptchaKey":"6LfP2j8UAAAAAIgRZnhTKGi5m-kre0fn1r51enHa","branchKey":"key_live_kjeUvfVtyKVDa8NstTC9VfndDqmaPWeo","doNotSellUrl":"https:\u002F\u002Faccount.underarmour.com\u002Fen-us\u002Fdata-management","authCookie":null,"hydrated":true},"identity":{"token":null,"isAuthenticated":false,"cookieNames":["mfp-react-token","mfp-react-user"],"refreshToken":null,"userId":null,"error":null,"expires":null,"hydrated":true},"rollouts":[{"name":"ed-updated-flow-web-2015-09","variant":"on","properties":{},"disable_tracking":true},{"name":"premium-skus-web","variant":"999-month-4999-year-v2","properties":{"sku-month":"mfp_1m_web_999_v2","sku-year":"mfp_12m_web_4999_v2"},"disable_tracking":false},{"name":"privacy-policy-update-us-users-11-2017","variant":false,"properties":{},"disable_tracking":true},{"name":"UACF_DFP_overflow_prevention","variant":"on","properties":{},"disable_tracking":true},{"name":"localytics-web-2016-04","variant":"on","properties":{},"disable_tracking":true},{"name":"premium-custom-daily-goals-web","variant":"on","properties":{},"disable_tracking":true},{"name":"secret-menu-web","variant":false,"properties":{},"disable_tracking":true},{"name":"amazon_match_buy_integration","variant":"on","properties":{},"disable_tracking":true},{"name":"us-automatic-ad-opt-in-2020-q1-web","variant":"on","properties":{},"disable_tracking":false},{"name":"premium-1.5-upsell-webview-meal-goals-web-2016-08","variant":"on","properties":{},"disable_tracking":true},{"name":"updated-age-flow-web-2015-01","variant":"on","properties":{},"disable_tracking":true},{"name":"global-alert-banner","variant":false,"properties":{},"disable_tracking":true},{"name":"premium-quick-add-web","variant":"on","properties":{},"disable_tracking":true},{"name":"mfp-branch-io-sdk-web-2019-05","variant":"on","properties":{},"disable_tracking":true},{"name":"premium-ad-free-web","variant":"on","properties":{},"disable_tracking":true},{"name":"zendesk-migration-09-2019","variant":"on","properties":{},"disable_tracking":true},{"name":"IE-deprecation-banner-web-2016-01","variant":"on","properties":{},"disable_tracking":true},{"name":"premium-on-main-menu-web-2016-10","variant":"on","properties":{},"disable_tracking":true},{"name":"gdpr_privacy_center_web","variant":"on","properties":{},"disable_tracking":true},{"name":"premium-upsell-web","variant":"on","properties":{"upsell-grouping-1-headline-text":"Get the VIP experience","upsell-grouping-2-headline-text":"Track your nutrients your way","upsell-grouping-3-headline-text":"Personalize Your Plan","upsell-grouping-4-headline-text":"Learn more about what you're eating","upsell-grouping-headline-color":"#0a5282","upsell-grouping-headline-size":"20px","upsell-grouping-order":"1,2,3,4","upsell-hero-background-color":"#0072BC","upsell-hero-image-url":"ico_prem_crown.png","upsell-premium-ad-free-description-text":"Focus on meeting your goals without distraction","upsell-premium-ad-free-grouping":"1","upsell-premium-ad-free-icon":"ios\u002F1x\u002Fic_premium_AdFree.png","upsell-premium-ad-free-sort-order":"1","upsell-premium-ad-free-title-text":"Ad-Free","upsell-premium-assign-exercise-description-text":"Decide whether to increase daily goals when you exercise","upsell-premium-assign-exercise-grouping":"3","upsell-premium-assign-exercise-icon":"ios\u002F1x\u002Fic_premium_ExerciseCalorieSettings.png","upsell-premium-assign-exercise-sort-order":"2","upsell-premium-assign-exercise-title-text":"Exercise Calorie Settings","upsell-premium-nutrient-dashboard-description-text":"Choose a view that best helps you achieve your personal goals","upsell-premium-nutrient-dashboard-grouping":"3","upsell-premium-nutrient-dashboard-icon":"ios\u002F1x\u002Fic_premium_NutrientDashboard.png","upsell-premium-nutrient-dashboard-sort-order":"3","upsell-premium-nutrient-dashboard-title-text":"Nutrient Dashboard","upsell-premium-feature-description-color":"#888888","upsell-premium-feature-description-size":"16px","upsell-premium-feature-title-color":"#222222","upsell-premium-feature-title-size":"16px","upsell-premium-food-list-description-text":"Learn which foods rank highest in the nutrients you care about","upsell-premium-food-list-grouping":"2","upsell-premium-food-list-icon":"ios\u002F1x\u002Fic_premium_FoodAnalysis.png","upsell-premium-food-list-sort-order":"3","upsell-premium-food-list-title-text":"Food Analysis","upsell-premium-custom-daily-goals-description-text":"Set custom calorie and macronutrient goals for any day of the week","upsell-premium-custom-daily-goals-grouping":"3","upsell-premium-custom-daily-goals-icon":"ios\u002F1x\u002Fic_premium_GoalsByDay.png","upsell-premium-custom-daily-goals-sort-order":"1","upsell-premium-custom-daily-goals-title-text":"Different Goals by Day","upsell-premium-priority-support-description-text":"Premium support requests are given top priority, seven days a week","upsell-premium-priority-support-icon":"ios\u002F1x\u002Fic_premium_PriorityCustomerSupport.png","upsell-premium-priority-support-title-text":"Priority Customer Support","upsell-premium-priority-support-grouping":"1","upsell-premium-priority-support-sort-order":"2","upsell-premium-quick-add-description-text":"Track grams of fat, protein and carbs in just seconds","upsell-premium-quick-add-grouping":"2","upsell-premium-quick-add-icon":"ios\u002F1x\u002Fic_premium_QuickAddMacronutrients.png","upsell-premium-quick-add-sort-order":"4","upsell-premium-quick-add-title-text":"Quick Add Macronutrients","upsell-premium-track-macros-description-text":"Set macronutrient goals by either gram or percentage","upsell-premium-track-macros-grouping":"2","upsell-premium-track-macros-icon":"ios\u002F1x\u002Fic_premium_MacronutrientsByGram.png","upsell-premium-track-macros-sort-order":"1","upsell-premium-track-macros-title-text":"Macronutrients by Gram","upsell-purchase-button-bgcolor":"#0072BC","upsell-title-text":"Upgrade to Premium","upsell-purchase-skus":"['mfp_beta_7day_web', 'mfp_beta_7day_promo']","upsell-premium-content-description-text":"Articles and tips available only to our Premium subscribers","upsell-premium-content-grouping":"1","upsell-premium-content-icon":"ios\u002F1x\u002Fic_premium_PremiumContent.png","upsell-premium-content-sort-order":"3","upsell-premium-content-title-text":"Exclusive Content","upsell-hero-cta-text":"Reach your goals faster!","upsell-hero-cta-size":"30px","upsell-hero-cta-color":"#ffffff","upsell-hero-cta2-text":"An ad-free experience with advanced tools and better analysis","upsell-hero-cta2-size":"24px","upsell-hero-cta2-color":"#ffffff","upsell-registration-cta-text":"Upgrade your experience","upsell-registration-cta-size":"30px","upsell-registration-cta-color":"#ffffff","upsell-registration-cta2-text":"Reach your goals faster with advanced tools and better analysis","upsell-registration-cta2-size":"24px","upsell-registration-cta2-color":"#ffffff"},"disable_tracking":true},{"name":"openx-bidder-web-2016-05","variant":"on","properties":{},"disable_tracking":true},{"name":"koalas-test-challenge-2015-09","variant":false,"properties":{},"disable_tracking":true},{"name":"weekly_digest_premium_features_web_2016_12","variant":"on","properties":{},"disable_tracking":true},{"name":"sso-minimal-web-2016-09","variant":"on","properties":{},"disable_tracking":true},{"name":"web-redesign-search-killswitch-2019-01","variant":"on","properties":{},"disable_tracking":true},{"name":"id_service_parallel_authentication","variant":false,"properties":{},"disable_tracking":true},{"name":"UACF_DFP_ads_passbacks","variant":"on","properties":{},"disable_tracking":true},{"name":"core-identity-service-ios-device-tokens-2018-08","variant":"on","properties":{},"disable_tracking":true},{"name":"privacy-policy-web-2016-02","variant":"on","properties":{},"disable_tracking":true},{"name":"ember-food-diary","variant":false,"properties":{},"disable_tracking":true},{"name":"Platform Test Rollout","variant":false,"properties":{},"disable_tracking":true},{"name":"gold-foods-web-2015-03","variant":"on","properties":{},"disable_tracking":true},{"name":"zendesk-web-european-spanish-killswitch","variant":"on","properties":{},"disable_tracking":true},{"name":"premium-free-trials-web-2019-11","variant":false,"properties":{},"disable_tracking":true},{"name":"UACF_DFP_ads","variant":"on","properties":{},"disable_tracking":true},{"name":"premium-signup-web","variant":false,"properties":{},"disable_tracking":true},{"name":"weekly_digest_web_nav_item_2016_12","variant":"on","properties":{},"disable_tracking":true},{"name":"hero-card-server-xpromo-mfp-www-2015-06","variant":"on","properties":{},"disable_tracking":true},{"name":"killswitch_whitelisted_stats_paths","variant":"on","properties":{},"disable_tracking":true},{"name":"newsfeed-v2-web-2015-09","variant":false,"properties":{},"disable_tracking":true},{"name":"premium-free-trial-new-users-ios-2016-11","variant":"on","properties":{},"disable_tracking":true},{"name":"web-redesign-home-killswitch-2018-06","variant":"on","properties":{},"disable_tracking":true},{"name":"challenges-email-prefs-web-2015-10","variant":"on","properties":{},"disable_tracking":true},{"name":"CCPA-do-not-sell-web-killswitch-12-2019","variant":"on","properties":{},"disable_tracking":true},{"name":"blackfriday-ecom-interstitial-web-2016-11","variant":false,"properties":{},"disable_tracking":true},{"name":"ember-food-diary-disable-non-en","variant":false,"properties":{},"disable_tracking":true},{"name":"premium-1.5-file-export-web-2016-04","variant":"on","properties":{},"disable_tracking":true},{"name":"premium-upsell-react-04-2019","variant":"on","properties":{},"disable_tracking":true},{"name":"premium-badge-web","variant":false,"properties":{},"disable_tracking":true},{"name":"water-phase-2-web-2016-07","variant":"on","properties":{},"disable_tracking":true},{"name":"smart-banner-mobile-web-2015-08","variant":"on","properties":{},"disable_tracking":true},{"name":"search-v2-web-2015-03","variant":"on","properties":{},"disable_tracking":true},{"name":"block-china-registration-killswitch-10-2019","variant":"on","properties":{},"disable_tracking":true},{"name":"ember-timeline","variant":"on","properties":{},"disable_tracking":true},{"name":"premium-assign-exercise-web","variant":"on","properties":{},"disable_tracking":true},{"name":"verified-foods-downgrade","variant":false,"properties":{},"disable_tracking":true},{"name":"weekly_digest_sponsorship_2016_09","variant":false,"properties":{},"disable_tracking":true},{"name":"serving-sizes-web-2015-02","variant":false,"properties":{},"disable_tracking":true},{"name":"reset-daily-goals-for-user-2020-03","variant":false,"properties":{},"disable_tracking":true},{"name":"react-weekly-digest-switch","variant":"on","properties":{},"disable_tracking":true},{"name":"serving-sizes-web-2015-10","variant":"on","properties":{},"disable_tracking":true},{"name":"premium-intl-non-en-web","variant":"on","properties":{},"disable_tracking":true},{"name":"year_in_review_2018","variant":false,"properties":{},"disable_tracking":true},{"name":"truste-web-2015-09","variant":"on","properties":{},"disable_tracking":true},{"name":"rails-ember-ads-switch","variant":"on","properties":{},"disable_tracking":true},{"name":"smart-banner-mobile-web-2015-08-description","variant":"on","properties":{},"disable_tracking":true},{"name":"premium-entry-points-web","variant":"on","properties":{},"disable_tracking":true},{"name":"ua-mega-menu-web-2017-04","variant":false,"properties":{},"disable_tracking":true},{"name":"weekly_digest_web_2016_08","variant":"on","properties":{},"disable_tracking":true},{"name":"premium-upsell-webview-pricing-2016-01","variant":false,"properties":{},"disable_tracking":true},{"name":"ua-ecomm-banner-web-11-2015","variant":false,"properties":{},"disable_tracking":true},{"name":"step-source-selection-web-2015-12","variant":"on","properties":{},"disable_tracking":true},{"name":"google_app_indexing","variant":"on","properties":{},"disable_tracking":true},{"name":"premium-1.5-upsell-webview-meal-macros-web-2016-07","variant":"on","properties":{},"disable_tracking":true},{"name":"killswitch-marketing-optin-web-2015-10","variant":"on","properties":{},"disable_tracking":true},{"name":"premium-ember-web","variant":"on","properties":{},"disable_tracking":true},{"name":"timeline_service_v2_use_circuitbox","variant":false,"properties":{},"disable_tracking":true},{"name":"premium-content-web","variant":"on","properties":{},"disable_tracking":true},{"name":"premium-food-list-web","variant":"on","properties":{},"disable_tracking":true},{"name":"weekly_digest_premium_upsell_web_2016_12","variant":"on","properties":{},"disable_tracking":true},{"name":"mobile_optimized_seo","variant":false,"properties":{},"disable_tracking":true},{"name":"progress-photos-newsfeed-web-2016-03","variant":"on","properties":{},"disable_tracking":false},{"name":"premium-1.5-meal-macros-web-2016-04","variant":"on","properties":{},"disable_tracking":true},{"name":"salesforce-web-2015-08","variant":"on","properties":{},"disable_tracking":false},{"name":"webview-upsell-tests-2016-12","variant":false,"properties":{},"disable_tracking":true},{"name":"optional-ad-consents-settings-2018-Q4-web","variant":"on","properties":{},"disable_tracking":true},{"name":"discover-modal-web-2016-03","variant":false,"properties":{},"disable_tracking":true},{"name":"free-vs-premium-comparison-web-2016-10","variant":"on","properties":{},"disable_tracking":true},{"name":"DEREK_TEST_ROLLOUT_1","variant":"on","properties":{},"disable_tracking":true},{"name":"blog_spam_blocker","variant":"on","properties":{},"disable_tracking":true},{"name":"gdpr_privacy_popup_update_changes_web","variant":"on","properties":{},"disable_tracking":true},{"name":"timeline_service_use_circuitbox","variant":false,"properties":{},"disable_tracking":true},{"name":"premium-1.5-beta-web-2016-05","variant":false,"properties":{},"disable_tracking":true},{"name":"gdpr_existing_user_popup_web","variant":"on","properties":{},"disable_tracking":true},{"name":"omnigon-prebidjs-ads-08-2018","variant":"on","properties":{},"disable_tracking":true},{"name":"premium-ip-check-web","variant":"on","properties":{},"disable_tracking":true},{"name":"servings-sizes-web-2015-09","variant":false,"properties":{},"disable_tracking":true},{"name":"weekly_digest_sponsorship_2017","variant":"on","properties":{},"disable_tracking":false},{"name":"payment-button-yearly-copy-test-ios-2016-11","variant":"on","properties":{},"disable_tracking":true},{"name":"premium-upsell-webview-pricing-en-2016-01","variant":"on","properties":{},"disable_tracking":true},{"name":"premium-1.5-upsell-webview-file-export-web-2016-06","variant":"on","properties":{},"disable_tracking":false},{"name":"gdpr_v1_onboarding_web","variant":"on","properties":{},"disable_tracking":true},{"name":"premium-interstitial-web","variant":"on","properties":{},"disable_tracking":true},{"name":"serving-sizes-web-2015-03","variant":false,"properties":{},"disable_tracking":true},{"name":"starting-weight-web-2016-01","variant":"on","properties":{},"disable_tracking":true},{"name":"premium-track-macros-web","variant":"on","properties":{},"disable_tracking":true},{"name":"ua-shop-web-11-2015","variant":"on","properties":{},"disable_tracking":true},{"name":"gold-foods-web-2015-02","variant":false,"properties":{},"disable_tracking":true},{"name":"mobile_optimized_landing_page_01_2017","variant":"variantC","properties":{},"disable_tracking":false},{"name":"premium-1.5-meal-goals-web-2016-04","variant":"on","properties":{},"disable_tracking":true},{"name":"marketing-intl-optin-web-2015-10","variant":"on","properties":{},"disable_tracking":true},{"name":"optional-ad-consents-interstitial-2018-Q4-web","variant":"on","properties":{"minimum_account_age_in_days":"7","minimum_days_between_requests":"60"},"disable_tracking":true},{"name":"macros-by-meal-goalscreen-setting-web-2016-10","variant":"on","properties":{},"disable_tracking":true},{"name":"global-top-nav-web-2017-07","variant":"control","properties":{},"disable_tracking":false},{"name":"year_in_review","variant":false,"properties":{},"disable_tracking":true},{"name":"gdpr_location_change_required_consents_web","variant":"on","properties":{},"disable_tracking":true},{"name":"premium-nutrient-dashboard-web","variant":"on","properties":{},"disable_tracking":true},{"name":"user-food-endpoint-3-2020","variant":"on","properties":{},"disable_tracking":true},{"name":"sso-minimal-web-beta-2016-09","variant":"on","properties":{},"disable_tracking":true},{"name":"nutrition-update-web-2015-11","variant":"on","properties":{},"disable_tracking":true},{"name":"premium-logged-out-homepage-web-2016-10","variant":"on","properties":{},"disable_tracking":true},{"name":"newsfeed_sharethrough_interstitial_v2","variant":"on","properties":{},"disable_tracking":true},{"name":"secure-vanilla-connections","variant":"on","properties":{},"disable_tracking":true}],"cloudFrontHeaders":{"country":"US","hydrated":true},"nutrition":{"items":[{"item":{"brand_name":"Quest","country_code":"US","deleted":false,"description":"Quest Birthday Cake (5f\u002F25c\u002F21p)","id":1062533531,"nutritional_contents":{"energy":{"unit":"calories","value":180},"calcium":10,"carbohydrates":24,"cholesterol":5,"fat":6,"fiber":14,"iron":2,"potassium":0,"protein":21,"saturated_fat":3.5,"sodium":220,"sugar":1,"trans_fat":0,"vitamin_a":0,"vitamin_c":0},"public":true,"serving_sizes":[{"id":"270084655179565","index":0,"nutrition_multiplier":1,"unit":"Bar (60g)","value":1},{"id":"269534899365805","index":1,"nutrition_multiplier":0.0166667,"unit":"gram","value":1},{"id":"270084655179693","index":2,"nutrition_multiplier":1,"unit":"gram","value":60}],"type":"food","user_id":"102672983961469","verified":false,"version":"238336098479541"},"type":"food"},{"item":{"brand_name":"Quest","country_code":"US","deleted":false,"description":"Birthday Cake Bar","id":1062850545,"nutritional_contents":{"energy":{"unit":"calories","value":180},"calcium":8,"carbohydrates":24,"cholesterol":5,"fat":6,"fiber":14,"iron":2,"potassium":80,"protein":21,"saturated_fat":3.5,"sodium":220,"trans_fat":0,"vitamin_a":0,"vitamin_c":0},"public":true,"serving_sizes":[{"id":"199432300529261","index":1,"nutrition_multiplier":1,"unit":"Bar","value":1}],"type":"food","user_id":"159435287547821","verified":false,"version":"203151688666213"},"type":"food"},{"item":{"brand_name":"Quest","country_code":"US","deleted":false,"description":"Birthday Cake Keto","id":951955098,"nutritional_contents":{"energy":{"unit":"calories","value":180},"carbohydrates":4,"fat":6,"fiber":14,"protein":21,"saturated_fat":3.5,"sugar":0},"public":true,"serving_sizes":[{"id":"163841898857853","index":0,"nutrition_multiplier":1,"unit":"g","value":60},{"id":"164391654671741","index":1,"nutrition_multiplier":0.0166667,"unit":"g","value":1},{"id":"163841898857981","index":2,"nutrition_multiplier":0.472492,"unit":"ounce","value":1},{"id":"164391654671869","index":3,"nutrition_multiplier":0.992232,"unit":"ounce","value":2.1}],"type":"food","user_id":"89206368997373","verified":false,"version":"57483631512757"},"type":"food"},{"item":{"brand_name":"Quest","country_code":"US","deleted":false,"description":"Birthday Cake (Corrected)","id":1061294316,"nutritional_contents":{"energy":{"unit":"calories","value":180},"calcium":8,"carbohydrates":24,"cholesterol":5,"fat":6,"fiber":14,"iron":2,"potassium":80,"protein":21,"saturated_fat":3.5,"sodium":220,"sugar":1,"trans_fat":0,"vitamin_a":0,"vitamin_c":0},"public":true,"serving_sizes":[{"id":"265952879855165","index":1,"nutrition_multiplier":1,"unit":"bar","value":1}],"type":"food","user_id":"159435287547821","verified":false,"version":"237638287945061"},"type":"food"},{"item":{"brand_name":"Quest Nutrition","country_code":"US","deleted":false,"description":"Birthday Cake","id":1064837057,"nutritional_contents":{"energy":{"unit":"calories","value":180},"calcium":8,"carbohydrates":24,"cholesterol":5,"fat":6,"fiber":14,"iron":2,"potassium":80,"protein":21,"saturated_fat":3.5,"sodium":220,"sugar":0.5,"trans_fat":0,"vitamin_a":0,"vitamin_c":0},"public":true,"serving_sizes":[{"id":"229952287753901","index":0,"nutrition_multiplier":1,"unit":"bar (60g)","value":1},{"id":"230502043567789","index":1,"nutrition_multiplier":0.0166667,"unit":"gram","value":1}],"type":"food","user_id":"159435287547821","verified":false,"version":"172354646576229"},"type":"food"},{"item":{"brand_name":"Quest","country_code":"US","deleted":false,"description":"Quest Protein Bar, Birthday Cake","id":1066358948,"nutritional_contents":{"energy":{"unit":"calories","value":180},"carbohydrates":24,"cholesterol":5,"fat":6,"fiber":14,"protein":21,"saturated_fat":3.5,"sodium":220,"sugar":1},"public":true,"serving_sizes":[{"id":"234891651171709","index":0,"nutrition_multiplier":1,"unit":"bar (60g)","value":1},{"id":"234341895357949","index":1,"nutrition_multiplier":0.0166667,"unit":"gram","value":1}],"type":"food","user_id":"134035107761325","verified":false,"version":"228842077645941"},"type":"food"},{"item":{"brand_name":"Quest","country_code":"US","deleted":false,"description":"Protein Bar - Birthday Cake","id":1070506887,"nutritional_contents":{"energy":{"unit":"calories","value":180},"calcium":8,"carbohydrates":24,"cholesterol":5,"fat":5,"fiber":14,"iron":2,"monounsaturated_fat":0,"polyunsaturated_fat":0,"potassium":80,"protein":21,"saturated_fat":3.5,"sodium":220,"sugar":0.5,"trans_fat":0,"vitamin_a":0,"vitamin_c":0},"public":true,"serving_sizes":[{"id":"278485461296941","index":0,"nutrition_multiplier":1,"unit":"Bar 2.12 oz (60g)","value":1},{"id":"279035217110829","index":1,"nutrition_multiplier":0.0166667,"unit":"gram","value":1}],"type":"food","user_id":"159435287547821","verified":false,"version":"194216206281909"},"type":"food"},{"item":{"brand_name":"Quest","country_code":"US","deleted":false,"description":"Birthday Cake (Minus Erythritol)","id":1072396382,"nutritional_contents":{"energy":{"unit":"calories","value":180},"calcium":8,"carbohydrates":18,"cholesterol":5,"fat":6,"fiber":14,"iron":2,"potassium":80,"protein":21,"saturated_fat":3.5,"sodium":220,"sugar":0.8,"trans_fat":0,"vitamin_a":0,"vitamin_c":0},"public":true,"serving_sizes":[{"id":"274360145020717","index":1,"nutrition_multiplier":1,"unit":"Bar (60 g)","value":1}],"type":"food","user_id":"31909115579645","verified":false,"version":"233242242182821"},"type":"food"},{"item":{"brand_name":"Quest Nutrition","country_code":"US","deleted":false,"description":"Birthday Cake Flavor","id":1062837556,"nutritional_contents":{"energy":{"unit":"calories","value":180},"calcium":8,"carbohydrates":24,"cholesterol":5,"fat":6,"fiber":14,"iron":2,"potassium":80,"protein":21,"saturated_fat":3.5,"sodium":220,"sugar":1},"public":true,"serving_sizes":[{"id":"163979576968573","index":1,"nutrition_multiplier":1,"unit":"bar","value":1}],"type":"food","user_id":"159435287547821","verified":false,"version":"237786363661925"},"type":"food"},{"item":{"brand_name":"Quest Protien Bar","country_code":"US","deleted":false,"description":"Birthday Cake","id":1053416616,"nutritional_contents":{"energy":{"unit":"calories","value":180},"calcium":10,"carbohydrates":24,"cholesterol":5,"fat":6,"fiber":14,"iron":2,"protein":21,"saturated_fat":3.5,"sodium":220},"public":true,"serving_sizes":[{"id":"234771425526909","index":0,"nutrition_multiplier":1,"unit":"bar (60g)","value":1},{"id":"234221669713149","index":1,"nutrition_multiplier":4,"unit":"container (4 bar (60g) ea.)","value":1},{"id":"234771425527037","index":2,"nutrition_multiplier":0.0166667,"unit":"gram","value":1},{"id":"234221678101629","index":3,"nutrition_multiplier":0.472492,"unit":"ounce","value":1}],"type":"food","user_id":"67645474680637","verified":false,"version":"229142716861541"},"type":"food"}],"totalResultsCount":10000,"prefetched":true,"hasError":false,"isLoading":false,"popularSearchResults":[],"hydrated":true},"viewport":{"clientOs":null,"deviceWidth":1600,"isMobile":false,"isPhone":false,"isTablet":false,"isDesktop":true,"userAgent":null,"width":1600,"hydrated":true}}</script><script type="text/javascript" src="//cdn.polyfill.io/v2/polyfill.js?features=default,es6"></script><script type="text/javascript" src="/react-static/index-9ba694a2f6eede5afd31.js"></script></body></html>
