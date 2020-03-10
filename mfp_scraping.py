@@ -32,5 +32,4 @@ def get_items(i, filename):
 	os.remove("html.txt")
 
 if __name__ == "__main__":
-	print(sys.argv[1])
 	get_items(items, sys.argv[1])
