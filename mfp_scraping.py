@@ -25,7 +25,6 @@ def get_items(i):
 			match = re.search("Protein: (\d+)", j)
 			if match:
 				dict[i] = match.group()
-	# print(dict)
 	os.remove("html.txt")
 
 if __name__ == "__main__":
