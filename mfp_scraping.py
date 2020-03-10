@@ -1,10 +1,11 @@
 from selenium import webdriver
 from config import items
 import requests
+import sys
 import re
 import os
 
-def get_items(i):
+def get_items(i, filename):
 	#dict stores item names with their protein value
 	dict = {}
 	driver = webdriver.Chrome("./chromedriver")
@@ -25,7 +26,11 @@ def get_items(i):
 			match = re.search("Protein: (\d+)", j)
 			if match:
 				dict[i] = match.group()
+	f = open(filename, "w")
+	f.write(str(dict))
+	f.close()
 	os.remove("html.txt")
 
 if __name__ == "__main__":
-	get_items(items)
+	print(sys.argv[1])
+	get_items(items, sys.argv[1])
