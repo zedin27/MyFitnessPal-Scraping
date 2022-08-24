@@ -1,2 +1,3 @@
+chromedriver
 *.pyc
 __pycache__
